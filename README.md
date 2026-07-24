@@ -32,7 +32,7 @@ Top Performing Salesperson
 
 Dataset.xlsx
 [Sales_KPI_Dashboard](SalesDashboard.xlsx)
-Dashboard.png
+![Sales Dashboard](Dashboard.png)
 
 
 Interactive Sales KPI Dashboard built in Microsoft Excel featuring data analysis, KPI tracking, PivotTables, PivotCharts, slicers, and business insights.
