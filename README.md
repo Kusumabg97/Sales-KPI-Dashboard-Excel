@@ -26,12 +26,12 @@ Total Profit
 Total Orders
 Top Performing Salesperson
 
-</> Markdown
+**</> Markdown**
 **Project Files**
 
 
 Dataset.xlsx
-SalesDashboard.xlsx
+[Sales_KPI_Dashboard](SalesDashboard.xlsx)
 Dashboard.png
 
 
